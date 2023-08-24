@@ -2,7 +2,7 @@
 
 Meu nome e Joao Pedro💔
 
-- Estou estudando no [alura](https
+- Estou estudando no [alura](https://www.alura.com.br)
 - Estou estudando na linguagem JavaScript;
 - Utuilizo esse espaço para minha organinazação e compartilhamento dos meus projetos desenvolvidos;
 
